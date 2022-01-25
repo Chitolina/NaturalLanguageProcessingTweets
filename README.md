@@ -1,8 +1,9 @@
-"Natural Language Processing with Disaster Tweets"
 
-image: "images/post/tw.jpg"
+![Image](/tw_files/tw.jpg)
 
-# meta description
+
+### **"Natural Language Processing with Disaster Tweets"**
+
 description: "Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies)."
 
 # taxonomies
@@ -43,7 +44,7 @@ df_sample = pd.read_csv('sample_submission.csv')
 df_train.head(5)
 ```
 
-![image](../../images/tw_files/pd1.jpg)
+![Image](/tw_files/pd1.jpg)
 
 
 
@@ -51,14 +52,14 @@ df_train.head(5)
 df_test.head(10)
 ```
 
-![image](../../images/tw_files/pd2.jpg)
+![Image](/tw_files/pd2.jpg)
 
 
 ```
 df_sample.head(5)
 ```
 
-![image](../../images/tw_files/pd3.jpg)
+![Image](/tw_files/pd3.jpg)
 
 ```
 # Check for null values
@@ -87,7 +88,7 @@ plt.title('Top 15 keywords')
 plt.show()
 ```
 
-![image](../../images/tw_files/output_9_0.png)
+![Image](/tw_files/output_9_0.png)
 
 ```
 ## Plot to checkout null values in train data
@@ -101,13 +102,13 @@ plt.show()
 
 
 
-![image](../../images/tw_files/output_10_0.png)
+![Image](/tw_files/tw_files/output_10_0.png)
 
 
 
 
 
-![image](../../images/tw_files/output_10_1.png)
+![Image](/tw_files/tw_files/output_10_1.png)
 
 
 
@@ -142,12 +143,12 @@ plt.show()
 
 df_train.sample(20)
 ```
-![image](../../images/tw_files/pd4.jpg)
+![Image](/tw_files/pd4.jpg)
 
 ```
 df_train.head(16)
 ```
-![image](../../images/tw_files/pd5.jpg)
+![Image](/tw_files/pd5.jpg)
 
 
 ```
@@ -201,7 +202,7 @@ print(nd_t.head(5))
 import plotly.express as px
 px.pie(df_train,names='target',title='Distribution of tweet categories',hole=0.5)
 ```
-![image](../../images/tw_files/image1.jpg)
+![Image](/tw_files/image1.jpg)
 
 ---
 ### Data Cleaning
@@ -508,10 +509,10 @@ from IPython.display import Image
 ```
 
 
-![image](../../images/tw_files/output_36_0.png)
+![Image](/tw_files/output_36_0.png)
 
 
-![image](../../images/tw_files/output_37_0.png)
+![Image](/tw_files/output_37_0.png)
 
 
 
@@ -639,13 +640,13 @@ plt.ylabel("Score")
 
 
 
-![image](../../images/tw_files/output_47_1.png)
+![Image](/tw_files/output_47_1.png)
 
 
 
 
 
-![image](../../images/tw_files/output_47_2.png)
+![Image](/tw_files/output_47_2.png)
 
 
 
@@ -697,7 +698,7 @@ plt.ylabel("Score")
 
 
 
-![image](../../images/tw_files/output_50_1.png)
+![Image](/tw_files/output_50_1.png)
 
 
 
@@ -727,7 +728,7 @@ s.to_csv('s.csv',index = False)
 s = pd.read_csv('s.csv')
 s.head(5)
 ```
-![image](../../images/tw_files/pd6.jpg)
+![Image](/tw_files/pd6.jpg)
 
 ```
 
