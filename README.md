@@ -1,21 +1,9 @@
-
-![Image](/tw_files/tw.jpg)
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/k4ZItrTKDPnSU/giphy.gif?cid=ecf05e47cx9csh3das6sy2de5qflr1hmfiv7uwlq9ck8w0m7&amp;rid=giphy.gif&amp;ct=g" alt="Animation Bird GIF" style="width: 1000px; height: 200px; center: 0px; top: 0px; opacity: 76;">
+</p>
 
 ### **"Natural Language Processing with Disaster Tweets"**
 
-description: "Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies)."
-
-# taxonomies
-categories: 
-  - 'Natural Language Processing'
-  - 'Machine Learning'
-tags:  
-  - "Python"
-
-# post type
-type: "post"
----
 Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies).  
 
 But, it’s not always clear whether a person’s words are announcing a disaster.  
@@ -102,13 +90,13 @@ plt.show()
 
 
 
-![Image](/tw_files/tw_files/output_10_0.png)
+![Image](/tw_files/output_10_0.png)
 
 
 
 
 
-![Image](/tw_files/tw_files/output_10_1.png)
+![Image](/tw_files/output_10_1.png)
 
 
 
@@ -132,7 +120,7 @@ plt.show()
 
 
 
-![image](../../images/tw_files/output_12_0.png)
+![image](/tw_files/output_12_0.png)
 
 
 
@@ -704,7 +692,7 @@ plt.ylabel("Score")
 
 
 
-![image](../../images/tw_files/output_50_2.png)
+![image](/tw_files/output_50_2.png)
 
 
 
