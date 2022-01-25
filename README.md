@@ -20,7 +20,6 @@ import numpy as np
 import pandas as pd
 ```
 
-
 ```
 df_train = pd.read_csv("/tw_files/train.csv")
 df_test = pd.read_csv('/tw_files/test.csv')
@@ -33,7 +32,6 @@ df_train.head(5)
 ```
 
 ![Image](/tw_files/pd1.jpg)
-
 
 
 ```
