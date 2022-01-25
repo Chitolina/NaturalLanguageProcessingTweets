@@ -1,9 +1,5 @@
----
-title: "Natural Language Processing with Disaster Tweets"
-date: 2021-11-24T09:04:58-03:00
-draft: false
+"Natural Language Processing with Disaster Tweets"
 
-# post thumb
 image: "images/post/tw.jpg"
 
 # meta description
